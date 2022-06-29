@@ -145,8 +145,6 @@ let chuckButton = document.querySelector("#chuck-button")
 let chuckJokes = document.querySelector("#chuckJokes")
 let chuckJokesWord = document.querySelector("#chuckJokesWord")
 let chuckWordText = document.querySelector("#chuck-word-text")
-    // chuckButton.addEventListener('click', (e) => {
-    // e.preventDefault()
 
 
 
