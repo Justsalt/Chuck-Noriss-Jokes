@@ -18,7 +18,7 @@ fetch("https://api.chucknorris.io/jokes/categories")
             let optionElement = document.createElement("option")
             optionElement.textContent = categori
             chuckSellect.append(optionElement)
-            document.querySelector("#chuck-button").removeAttribute("disabled")
+                // document.querySelector("#chuck-button").removeAttribute("disabled")
 
         })
         chuckButton.addEventListener('click', (e) => {
