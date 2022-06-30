@@ -137,7 +137,7 @@
 //     <input type="button" value="Chuck Joke">
 //     </form> */
 // }
-
+///labas test
 
 let chuckForm = document.querySelector("#chuck-form")
 let chuckSellect = document.querySelector("#chuck-select")
